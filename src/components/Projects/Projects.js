@@ -5,7 +5,6 @@ import Particle from "../Particle";
 import cloud from "../../Assets/Projects/cloud.png";
 import news from "../../Assets/Projects/news.png";
 import chat from "../../Assets/Projects/pixelone.png";
-import task from "../../Assets/Projects/task.png";
 
 function Projects() {
   return (
