@@ -22,10 +22,10 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={cloud}
-              isBlog={false}
+              isBlog={true}
               title="Pixel Admin"
               description="PixelOne's manager that manage subscription, confirmation of payments, and the suspension of the customers.This was mainly used by developers and customer Suport team in PixelOne."
-              ghLink="https://github.com/siddharthsonii/Amazon-S3-Simple-Cloud-Storage"
+              ghLink="https://admin.pixelone.app/"
               // demoLink=""
             />
           </Col>
@@ -33,10 +33,10 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chat}
-              isBlog={false}
+              isBlog={true}
               title="PixelOne"
               description="A e-commerce business manager web app that provides real-time orders syncing from various platforms like shopify, woocommerce, drazz etc. It also provides a feature to manage the inventory, products, and customers."
-              ghLink="https://github.com/siddharthsonii/Real-Time-Chat-Application"
+              ghLink="https://web.pixelone.app/orders"
               // demoLink=""
             />
           </Col>
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Pixel-base"
               description="A libiray of various  reuseable components that are build in React Typescript.The whole project is build in storybook which is a tool for UI development. It makes development faster and easier by isolating components."
-              ghLink="https://github.com/siddharthsonii/News-Aggregator-API"
+              ghLink="https://github.com/pixelone-corp/pixel-base"
               // demoLink=""              
             />
           </Col>

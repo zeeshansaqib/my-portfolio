@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Siddharth Soni</h3>
+          <h3>Designed and Developed by Muhammad Zeeshan Saqib</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} SS</h3>
@@ -23,8 +23,8 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/siddharthsonii"
-                style={{ color: "white" }}
+  href="https://github.com/zeeshansaqib/MuhammadZeeshanSaqib/blob/main/README.md"
+                  style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/siddharthsonii"
+                href="https://twitter.com/saqibzeeshan20"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/siddharth-soni-b1ab99147/"
+                href="https://www.linkedin.com/in/muhammad-zeeshan-saqib-15a198258/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/siddharthsonii_"
+                href="https://www.instagram.com/muhammadzeeshansaqib/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
